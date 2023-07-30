@@ -19,6 +19,7 @@ The Project demonstrates use of various Searching & Sorting Algorithms which hel
 ## Deployment
 
 To run the project use a standard C compiler such a GCC/GNU
+
 Use a Text Editor Such as Dev C++/Visual Studio Code
 
 
